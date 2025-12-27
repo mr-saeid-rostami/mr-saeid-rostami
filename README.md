@@ -24,4 +24,4 @@ Currently, I am in an intensive learning phase, dedicating the next 12 months to
 
 ---
 ### 📍 Roadmap
-My goal is to build a comprehensive skillset in engineering mathematics and software design to contribute to world-class technology projects in **Germany 🇩🇪** by 2026.
+My goal is to build a comprehensive skillset in engineering mathematics and software design to contribute to world-class technology projects in **Germany 🇩🇪** by 2027.
